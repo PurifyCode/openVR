@@ -6,3 +6,6 @@ If you wanted a VR headset (ex. Quest 3) and you cant afford it; but you had a p
 I have been working on a custom renderer, which will be lightweight. It may work on phones that dont even support OpenGL or Vulkan.
 # Why does this exist?
 I have absolutely no idea.
+# FAQ
+If you see a "ReferenceError", you are probably on an unsupported browser. It may also just be a bug, because this project is under development.
+#
