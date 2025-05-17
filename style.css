@@ -1,0 +1,10 @@
+html, body { /*credits to some guy on Stack Overflow, [https://stackoverflow.com/questions/4037212/html-canvas-full-screen]*/
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: black;
+} 
+
+.eyes {
+    border: 1px;
+    background-color: black;
+}
